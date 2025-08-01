@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SHILPASHIVAMALLU
 - 👀 I’m interested in Azure Ecosystems, Working as Microsoft Fabric Data Engineer -- currently seeking opportunity as Senior Data Engineer. Have 15 years of Experience in IT
-- 🌱 I’m currently learning Azure Data Bricks 
+- 🌱 I’m looking for Azure Data Bricks Opportunities in Bank and Insurance doamain 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ... Linkein Profile:
 - https://www.linkedin.com/in/shilpa-manjunath-murthy-260a6750/
